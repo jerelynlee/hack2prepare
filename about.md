@@ -43,4 +43,18 @@ The Hackshop format leaves the traditional hackathon's solution-centric format b
 - building the wrong thing for the wrong customer
 - post-hackathon death due to lack of focus or centralization of team/data 
 
+### Links to Cybersecurity: 
+- https://www.dhs.gov/topic/cybersecurity
+- http://www.usatoday.com/story/news/politics/elections/2016/11/18/cybersecurity-experts-offer-advice-incoming-trump-administration/94040344/
+- https://www.nist.gov/cyberframework
+- https://www.us-cert.gov/ncas/tips
+- https://www.donaldjtrump.com/policies/cyber-security
+- http://thehill.com/policy/cybersecurity
+- http://thehill.com/policy/cybersecurity
 
+
+### Links to Cybersecurity Training: 
+- https://www.infosecinstitute.com/courses/ethical-hacking-boot-camp
+- https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
+- http://www.pbs.org/wgbh/nova/labs/lab/cyber/
+- https://www.pluralsight.com/blog/tutorials/learning-path-ethical-hacking
